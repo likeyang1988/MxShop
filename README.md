@@ -1,5 +1,4 @@
 # MxShop
-push mxshop
 
 开发环境：python、Django、Rest Framework、django1.11、xadmin、Vue.js、Mysql、Virtualenvwrapper
 项目描述如下：
